@@ -1,0 +1,3 @@
+[console_scripts]
+draw_circle = my_robot_controller.draw_circle:main
+
