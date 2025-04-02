@@ -2,6 +2,7 @@ from setuptools import find_packages, setup
 
 package_name = 'my_robot_controller'
 
+
 setup(
     name=package_name,
     version='0.0.0',
@@ -17,10 +18,15 @@ setup(
     maintainer_email='chandrakant@todo.todo',
     description='TODO: Package description',
     license='TODO: License declaration',
-    tests_require=['pytest'],
+    extras_require={  
+        'test': ['pytest'],
+    },
     entry_points={
         'console_scripts': [
-            "draw_circle = my_robot_controller.draw_circle:main"
+            "draw_circle = my_robot_controller.draw_circle:main",
+            "first_node = my_robot_controller.my_first_node:main",
+            "turtle_controller = my_robot_controller.turtle_controller:main", 
+            
         ],
     },
 )

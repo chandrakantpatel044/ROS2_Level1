@@ -1,0 +1,30 @@
+[0.685s] Invoking command in '/home/chandrakant/ros2_wsck/src/my_robot_controller': CONDA_PROMPT_MODIFIER=(rosenv) PYTHONPATH=/home/chandrakant/ros2_wsck/build/my_robot_controller/prefix_override:/home/chandrakant/miniconda3/envs/rosenv/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/chandrakant/ros2_wsck/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /home/chandrakant/miniconda3/envs/rosenv/bin/python -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/chandrakant/ros2_wsck/build/my_robot_controller/build install --record /home/chandrakant/ros2_wsck/build/my_robot_controller/install.log --single-version-externally-managed install_data
+[0.933s] running egg_info
+[0.946s] writing ../../build/my_robot_controller/my_robot_controller.egg-info/PKG-INFO
+[0.946s] writing dependency_links to ../../build/my_robot_controller/my_robot_controller.egg-info/dependency_links.txt
+[0.947s] writing entry points to ../../build/my_robot_controller/my_robot_controller.egg-info/entry_points.txt
+[0.947s] writing requirements to ../../build/my_robot_controller/my_robot_controller.egg-info/requires.txt
+[0.947s] writing top-level names to ../../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
+[0.972s] reading manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.974s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.974s] running build
+[0.974s] running build_py
+[0.974s] copying my_robot_controller/draw_circle.py -> /home/chandrakant/ros2_wsck/build/my_robot_controller/build/lib/my_robot_controller
+[0.974s] copying my_robot_controller/my_first_node.py -> /home/chandrakant/ros2_wsck/build/my_robot_controller/build/lib/my_robot_controller
+[0.974s] copying my_robot_controller/turtle_controller.py -> /home/chandrakant/ros2_wsck/build/my_robot_controller/build/lib/my_robot_controller
+[0.974s] copying my_robot_controller/__init__.py -> /home/chandrakant/ros2_wsck/build/my_robot_controller/build/lib/my_robot_controller
+[0.975s] copying my_robot_controller/talker.py -> /home/chandrakant/ros2_wsck/build/my_robot_controller/build/lib/my_robot_controller
+[0.975s] running install
+[0.980s] running install_lib
+[0.992s] running install_data
+[0.992s] copying resource/my_robot_controller -> /home/chandrakant/ros2_wsck/install/my_robot_controller/share/ament_index/resource_index/packages
+[0.992s] copying package.xml -> /home/chandrakant/ros2_wsck/install/my_robot_controller/share/my_robot_controller
+[0.992s] running install_egg_info
+[1.005s] removing '/home/chandrakant/ros2_wsck/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info' (and everything under it)
+[1.005s] Copying ../../build/my_robot_controller/my_robot_controller.egg-info to /home/chandrakant/ros2_wsck/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info
+[1.006s] running install_scripts
+[1.100s] Installing draw_circle script to /home/chandrakant/ros2_wsck/install/my_robot_controller/lib/my_robot_controller
+[1.100s] Installing first_node script to /home/chandrakant/ros2_wsck/install/my_robot_controller/lib/my_robot_controller
+[1.100s] Installing turtle_controller script to /home/chandrakant/ros2_wsck/install/my_robot_controller/lib/my_robot_controller
+[1.100s] writing list of installed files to '/home/chandrakant/ros2_wsck/build/my_robot_controller/install.log'
+[1.133s] Invoked command in '/home/chandrakant/ros2_wsck/src/my_robot_controller' returned '0': CONDA_PROMPT_MODIFIER=(rosenv) PYTHONPATH=/home/chandrakant/ros2_wsck/build/my_robot_controller/prefix_override:/home/chandrakant/miniconda3/envs/rosenv/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/chandrakant/ros2_wsck/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /home/chandrakant/miniconda3/envs/rosenv/bin/python -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/chandrakant/ros2_wsck/build/my_robot_controller/build install --record /home/chandrakant/ros2_wsck/build/my_robot_controller/install.log --single-version-externally-managed install_data

@@ -1,0 +1,22 @@
+[0.828s] Invoking command in '/home/chandrakant/ros2_wsck/src/build/my_robot_controller': CONDA_PROMPT_MODIFIER=(rosenv) PYTHONPATH=/home/chandrakant/ros2_wsck/src/build/my_robot_controller/prefix_override:/home/chandrakant/miniconda3/envs/rosenv/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/chandrakant/ros2_wsck/src/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /home/chandrakant/miniconda3/envs/rosenv/bin/python -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/chandrakant/ros2_wsck/src/build/my_robot_controller/build --no-deps symlink_data --force
+[1.190s] running develop
+[1.357s] running egg_info
+[1.370s] writing my_robot_controller.egg-info/PKG-INFO
+[1.371s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[1.371s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[1.372s] writing requirements to my_robot_controller.egg-info/requires.txt
+[1.372s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[1.398s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[1.422s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[1.437s] running build_ext
+[1.437s] Creating /home/chandrakant/ros2_wsck/src/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[1.438s] Installing draw_circle script to /home/chandrakant/ros2_wsck/src/install/my_robot_controller/lib/my_robot_controller
+[1.439s] Installing first_node script to /home/chandrakant/ros2_wsck/src/install/my_robot_controller/lib/my_robot_controller
+[1.439s] Installing turtle_controller script to /home/chandrakant/ros2_wsck/src/install/my_robot_controller/lib/my_robot_controller
+[1.439s] Installing turtle_writer script to /home/chandrakant/ros2_wsck/src/install/my_robot_controller/lib/my_robot_controller
+[1.440s] 
+[1.440s] Installed /home/chandrakant/ros2_wsck/src/build/my_robot_controller
+[1.440s] running symlink_data
+[1.440s] symbolically linking /home/chandrakant/ros2_wsck/src/build/my_robot_controller/resource/my_robot_controller -> /home/chandrakant/ros2_wsck/src/install/my_robot_controller/share/ament_index/resource_index/packages
+[1.440s] symbolically linking /home/chandrakant/ros2_wsck/src/build/my_robot_controller/package.xml -> /home/chandrakant/ros2_wsck/src/install/my_robot_controller/share/my_robot_controller
+[1.473s] Invoked command in '/home/chandrakant/ros2_wsck/src/build/my_robot_controller' returned '0': CONDA_PROMPT_MODIFIER=(rosenv) PYTHONPATH=/home/chandrakant/ros2_wsck/src/build/my_robot_controller/prefix_override:/home/chandrakant/miniconda3/envs/rosenv/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/chandrakant/ros2_wsck/src/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /home/chandrakant/miniconda3/envs/rosenv/bin/python -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/chandrakant/ros2_wsck/src/build/my_robot_controller/build --no-deps symlink_data --force
